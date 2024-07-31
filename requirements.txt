@@ -1,0 +1,5 @@
+ollama
+opencv-python
+faster-whisper
+PyAudio
+sentencepiece
